@@ -1,0 +1,18 @@
+{
+  "author": "Nate Rock",
+  "name": "dnode-test-browser",
+  "description": "simple node.js testing dnode with a browser based client",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rockhowse/dnode-test-browser",
+  "repository": {
+    "type": "git",
+    "url": "https://rockhowse@github.com/rockhowse/dnode-test-browser.git"
+  },
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {
+	  "dnode": ">= 0.7.5"
+  },
+  "devDependencies": {}
+}

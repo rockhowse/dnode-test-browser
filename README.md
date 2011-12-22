@@ -34,9 +34,13 @@ C:\Users\Sexbox\Desktop\nodejs\dnode-test-browser>node server.js
 
 Open up the browser of choice (Chrome!) and navigate to the url:
 
-http://localhost:5050
+http://localhost:8080
 
-tada! simple remote method run on the server using dnode =)
+And you should see the result in the browser:
+
+n = 6600
+
+tada! simple remote method run on the server using dnode with a browser based client =)
 
 -rOcK
 
