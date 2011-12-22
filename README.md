@@ -15,11 +15,17 @@ C:\Users\Sexbox\Desktop\nodejs\dnode-test-browser>npm i
 ...
 
 dnode@0.9.3 ./node_modules/dnode
+
 +-- jsonify@0.0.0
+
 +-- lazy@1.0.7
+
 +-- traverse@0.4.6
+
 +-- dnode-protocol@0.1.1 (traverse@0.5.2)
+
 +-- socket.io@0.8.6 (policyfile@0.0.4 redis@0.6.7)
+
 +-- socket.io-client@0.8.6
 
 At this point, you can start up the server:
